@@ -1,0 +1,26 @@
+html{
+    background-image: url("https://www.estidia.eu/wp-content/uploads/2018/04/Savin-NY-Website-Background-Web.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+.index-content{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 60px;
+
+}
+
+.heading-p1{
+    font-size: 40px;
+    text-align: center;
+    font-family: Verdana;
+    padding-bottom: 60px;
+}
+
+.services-list{
+    list-style: none;
+    text-align: center;
+    font-size: 30px;
+}
